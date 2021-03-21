@@ -9,8 +9,6 @@
     <link rel="stylesheet" href="css/app.css" />
   </head>
   <body>
-  <a style="position: absolute; top: 20px; left: 20px; color: white;" href="
-  pokemon.php">< BACK</a>
   <div id="scene">
   	<div id="pokeball">
   		<div id="pokeballBorder"></div>
